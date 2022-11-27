@@ -1,0 +1,18 @@
+// Variables son valores que le vamos a asignar a un elemnto en el codigo para que cuando lo usemos nos arroje el valor asignado
+
+// Strings son palabras o hilo de carateres, un string siempre esta delimitado con comillas
+siempre hay que tener cuidado porque un 1 es numero y un '1' es una palabra. Es solo texto.
+
+// Valores booleanos (true, false) los valores booleanos son ayudan a darle un sentido a la informacion que necesitamos, porque necesitamos saber si se cumple el parametro requerido, por ejemplo, si queremos que un valor de x sea true de lo contrario false.
+
+// La diferencia entre undefined y null es que es null se utiliza para buscar un valor existente pero no tiene un valor definido y el undefined es que la variable no tiene un valor asignado.  Y el null lo establecemos nosotros y no js
+
+// Operadores
+
+son simbolos que le indican al interprete de JA las operaciones que debe realizar
+por ejemplo +-*/ 
+** pontenciacion
+
+el == se utlizza para compara comparar y devolver un valor booleano
+
+y el === compara tambien pero tambien compara el tipo de dato 
